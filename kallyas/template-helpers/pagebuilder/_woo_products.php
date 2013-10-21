@@ -104,7 +104,7 @@
 													break;
 													default :
 														$link 	= apply_filters( 'add_to_cart_url', esc_url( $product->add_to_cart_url() ) );
-														$label 	= apply_filters( 'add_to_cart_text', __('ADD TO CART', THEMENAME) );
+														$label 	= apply_filters( 'add_to_cart_text', __('ADD TO BASKET', THEMENAME) );
 													break;
 												}
 												
