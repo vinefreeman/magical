@@ -42,7 +42,8 @@ section#content {
     line-height: 40px;
 }
 
-
+/*Slider fonts...*/
+.tp-caption.large_text{font-family: Griffy, Georgia, serif;}
 
 @media(max-width: 767px) {
 
