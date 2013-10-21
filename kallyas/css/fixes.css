@@ -1,0 +1,153 @@
+/*
+Title:   IE Fixes Css File
+Author:  http://themeforest.net/user/hogash // Marius Hogas
+Description: This is the stylesheet that holds the fixes for the IE (the stupidest browsers ever made)  */
+.oldie .selectorsBlock.bullets .selectors .item,
+.oldie .topnav li.drop .inner,
+.oldie #search .search,
+.oldie #search form input[type=text],
+.oldie .info_pop,
+.oldie .playVideo,
+.oldie .social-icons li a:hover,
+.oldie .black_border,
+.oldie .white_border,
+.oldie .loupe,
+.oldie #sliding_panel,
+.oldie .theHoverBorder,
+.oldie .theHoverBorder:hover,
+.oldie .slidingDetails:hover,
+.oldie .recentwork_carousel.style2 li a .details .plus,
+.oldie .gobox:hover,
+.oldie .info-text,
+.oldie .circlehover,
+.oldie .circlehover[data-position="bottom-right"],
+.oldie .circlehover:hover,
+.oldie .testimonial_box blockquote,
+.oldie .pricing_table .pr_table_col,
+.oldie .pricing_table .pr_table_col:hover,
+.oldie .pricing_table .pr_table_col.caption_column,
+.oldie .process_box,
+.oldie .process_box:hover,
+.oldie .timeline_box:hover,
+.oldie .services_box.style2 .box:hover,
+.oldie .eBlog .itemContainer,
+.oldie .hg-portfolio-sortable ul#thumbs li .inner-item:hover,
+.oldie .ptcarousel,
+.oldie .product-list-item > .hover,
+.oldie .product-list-item:hover > .hover,
+.oldie .adbox.video:after,
+.oldie .btn-flat,
+.oldie .topnav > li > a,
+.oldie .circle_title > span ,
+.oldie .login-panel .login_facebook,
+.oldie .theHoverBorder,
+.oldie .tabs_style3,
+.oldie .partners_carousel li a,
+.oldie .infobox1,
+.oldie .infobox2,
+.oldie .feature_box.style2 span.icon,
+.oldie .services_box .icon,
+.oldie .latest_posts.default-style .hoverBorder h6,
+.oldie .gobox,
+.oldie .circlehover,
+.oldie .circlehover:before,
+.oldie .acc-group.style2,
+.oldie .screenshot-box,
+.oldie .social-share.colored li,
+.oldie #twitterFeed,
+.oldie .vertical_tabs,
+.oldie .pricing_table.rounded-corners .highlight,
+.oldie .process_box .number,
+.oldie .process_box[data-align=right] .number,
+.oldie #sidebar,
+.oldie #sidebar ul.menu li a,
+.oldie .services_box.style2 .box .icon,
+.oldie .hg-portfolio-item .other-images li iframe,
+.oldie .btn-flat,
+.oldie .show-grid [class*="span"]
+{behavior:url(PIE.htc);}
+
+
+.ie8 .hoverBorder {vertical-align: middle;display: inline;}
+.ie8 .hoverBorder h6 {white-space: pre;}
+
+html.ie9 .theHoverBorder {border-radius:0;}
+.isie .static-content.simple .line {margin-top:0; position:relative; top:-20px;}
+.isie .static-content.simple .btn.btn-flat {position:relative; z-index:1;}
+.isie .laptop-mask {margin-bottom:-20px;}
+.isie .vertical_tabs .tabbable .nav > li.active > a {filter:none;}
+
+.isie .error404 h2 {color:#999;}
+.oldie .mb_title {min-width:180px}
+.oldie .mb_title img {display:inline;}
+
+/* Rgba values - http://kimili.com/journal/rgba-hsla-css-generator-for-internet-explorer/
+/* rgba(0, 0, 0, 0.1) */
+.topnav li.drop li.active a,
+.topnav li.drop li a:hover,
+nav#main_menu > ul ul li.active > a,
+nav#main_menu > ul ul li.sfHover > a,
+nav#main_menu > ul ul li a:hover,
+.info_pop .buyit,
+.pricing_table .signin,
+.caroufredsel_wrapper #prev, .caroufredsel_wrapper #next {background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#19000000,endColorstr=#19000000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#19000000,endColorstr=#19000000); zoom: 1; }
+/* rgba(0, 0, 0, 0.2) */
+.header-titles h4,
+.info_pop .buyit:hover,
+.ud_counter ul li,
+.offline-page .ud_counter ul li { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000,endColorstr=#33000000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000,endColorstr=#33000000); zoom: 1; }
+/* rgba(0, 0, 0, 0.3) */
+.oldie header.style2 #logo a,
+.oldie header.style3 #logo a,
+.video-container .captions .line,
+.caroufredsel_wrapper #prev:hover, .caroufredsel_wrapper #next:hover,
+.portfolio_devices .project_title  { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C00000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000); zoom: 1; }
+/* rgba(0, 0, 0, 0.4) */
+.ca-container .ca-nav > span,
+.iosSlider .prev .btn-label,
+.iosSlider .next .btn-label { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#6600000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#6600000,endColorstr=#6600000); zoom: 1; }
+/* rgba(0, 0, 0, 0.5) */
+.oldie #search .searchBtn { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000); zoom: 1; }
+/* rgba(0, 0, 0, 0.6) */
+b6 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000); zoom: 1; }
+/* rgba(0, 0, 0, 0.7) */
+b7 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000); zoom: 1; }
+/* rgba(0, 0, 0, 0.8) */
+.slidingDetails .details,
+.recentwork_carousel li .hover .hov { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000,endColorstr=#CC000000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000,endColorstr=#CC000000); zoom: 1; }
+/* rgba(0, 0, 0, 0.9) */
+b9 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#E5000000,endColorstr=#E5000000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#E5000000,endColorstr=#E5000000); zoom: 1; }
+
+/* Rgba values white */
+/* rgba(255,255,255, 0.1) */
+nav#main_menu > ul.dark_nav ul li a:hover,
+nav#main_menu > ul ul li.active > a,
+nav#main_menu > ul ul li.sfHover > a,
+nav#main_menu > ul ul li a:hover,
+.topnav li.drop li.active a,
+.topnav li.drop li a:hover {background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#19FFFFFF,endColorstr=#19FFFFFF)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#19FFFFFF,endColorstr=#19FFFFFF); zoom: 1; }
+/* rgba(255,255,255, 0.2) */
+w3 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#33FFFFFF,endColorstr=#33FFFFFF)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#33FFFFFF,endColorstr=#33FFFFFF); zoom: 1; }
+/* rgba(255,255,255, 0.3) */
+.fancy_register_form { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#4CFFFFFF,endColorstr=#4CFFFFFF)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4CFFFFFF,endColorstr=#4CFFFFFF); zoom: 1; }
+/* rgba(255,255,255, 0.4) */
+w4 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#66FFFFFF,endColorstr=#6600000)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#6600000,endColorstr=#6600000); zoom: 1; }
+/* rgba(255,255,255, 0.5) */
+#current-date { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7FFFFFFF,endColorstr=#7FFFFFFF)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7FFFFFFF,endColorstr=#7FFFFFFF); zoom: 1; }
+/* rgba(255,255,255, 0.6) */
+w6 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99FFFFFF,endColorstr=#99FFFFFF)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99FFFFFF,endColorstr=#99FFFFFF); zoom: 1; }
+/* rgba(255,255,255, 0.7) */
+w7 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2FFFFFF,endColorstr=#B2FFFFFF)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2FFFFFF,endColorstr=#B2FFFFFF); zoom: 1; }
+/* rgba(255,255,255, 0.8) */
+w8 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF,endColorstr=#CCFFFFFF)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF,endColorstr=#CCFFFFFF); zoom: 1; }
+/* rgba(255,255,255, 0.9) */
+w9 { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#E5FFFFFF,endColorstr=#E5FFFFFF)"; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#E5FFFFFF,endColorstr=#E5FFFFFF); zoom: 1; }
+
+.oldie header {background:url(../images/transparent_png/black50.png);}
+.oldie header.style3 {background:none;}
+.oldie #search .searchBtn.active {background: #F4F4F4; filter:none;}
+
+.oldie .how_to_shop > .row {font-size:13px; margin-bottom:10px;}
+
+.oldie .plus .theHoverBorder:hover {background-color:#232323; filter:alpha(opacity=50);}
+.oldie .latest_posts.default-style .hoverBorder:hover h6 { background:#fff; color:#cd2122;}

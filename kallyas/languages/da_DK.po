@@ -1,0 +1,2029 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kallyas v2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 15:30+0200\n"
+"PO-Revision-Date: 2013-06-12 15:33+0200\n"
+"Last-Translator: portpaye <dna@dnamedical.com>\n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ Kallyas
+#: 404.php:22
+msgid "The page cannot be found."
+msgstr "Siden kan ikke findes."
+
+# @ Kallyas
+#: archive-documentation.php:13 single-documentation.php:33
+#: taxonomy-documentation_category.php:13
+msgid "YOU ARE HERE:"
+msgstr "DU ER HER:"
+
+# @ Kallyas
+#: archive-documentation.php:14 single-documentation.php:36
+#: taxonomy-documentation_category.php:14
+msgid "HOME"
+msgstr "FORSIDE"
+
+# @ Kallyas
+#: archive-documentation.php:73 blog-columns.php:80 blog-default.php:102
+#: taxonomy-documentation_category.php:91
+msgid "Read more..."
+msgstr "Læs mere ..."
+
+# @ Kallyas
+#: archive-documentation.php:87 blog-columns.php:119 blog-default.php:133
+#: taxonomy-documentation_category.php:105
+msgid "Sorry, no posts matched your criteria."
+msgstr "Beklager, ingen indlæg matchede dine kriterier."
+
+# @ Kallyas
+#: archive-portfolio.php:40 taxonomy-project_category.php:32
+#: template-helpers/content-page.php:3084
+msgid "Sort By:"
+msgstr "Sorter efter:"
+
+# @ Kallyas
+#: archive-portfolio.php:42 comments.php:127 taxonomy-project_category.php:34
+#: template-helpers/content-page.php:3086
+#: woocommerce/single-product-reviews.php:92
+msgid "Name"
+msgstr "Navn"
+
+# @ Kallyas
+#: archive-portfolio.php:43 taxonomy-project_category.php:35
+#: template-helpers/content-page.php:3087
+msgid "Date"
+msgstr "Dato"
+
+# @ Kallyas
+#: archive-portfolio.php:46 taxonomy-project_category.php:38
+#: template-helpers/content-page.php:3090
+msgid "Direction:"
+msgstr "Retning:"
+
+# @ Kallyas
+#: archive-portfolio.php:48 taxonomy-project_category.php:40
+#: template-helpers/content-page.php:3092
+msgid "ASC"
+msgstr "Stigende"
+
+# @ Kallyas
+#: archive-portfolio.php:49 taxonomy-project_category.php:41
+#: template-helpers/content-page.php:3093
+msgid "DESC"
+msgstr "Faldende"
+
+# @ Kallyas
+#: archive-portfolio.php:55 template-helpers/content-page.php:3099
+msgid "All"
+msgstr "Alle"
+
+# @ Kallyas
+#: archive-portfolio.php:194 single-portfolio.php:87
+#: taxonomy-project_category.php:158 template-helpers/content-page.php:426
+#: template-helpers/content-page.php:3273
+msgid "Live Preview: "
+msgstr "Live-Preview:"
+
+# @ Kallyas
+#: archive-portfolio.php:198 taxonomy-project_category.php:162
+#: template-helpers/content-page.php:3277
+msgid "See more &rarr;"
+msgstr "Se mere &rarr;"
+
+# @ Kallyas
+#: blog-columns.php:69 blog-default.php:82
+#: template-helpers/content-page.php:2346
+msgid "by"
+msgstr "af"
+
+# @ Kallyas
+#: blog-columns.php:88 blog-default.php:110
+msgid "Published in"
+msgstr "Udgivet i"
+
+# @ Kallyas
+#: blog-columns.php:96 blog-default.php:118 single.php:187
+#: template-helpers/content-page.php:161
+msgid "Tagged under:"
+msgstr "Tagged under:"
+
+# @ Kallyas
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dette indlæg er kodeordsbeskyttet. Indtast kodeord for at se kommentarer."
+
+# @ Kallyas
+#: comments.php:105
+msgid "You must be "
+msgstr "Du skal være"
+
+# @ Kallyas
+#: comments.php:105
+msgid "logged in"
+msgstr "logget ind"
+
+# @ Kallyas
+#: comments.php:105
+msgid "to post a comment."
+msgstr "for at skrive en kommentar."
+
+# @ Kallyas
+#: comments.php:119
+msgid "Logged in as"
+msgstr "Logget ind som"
+
+# @ Kallyas
+#: comments.php:119
+msgid "Log out"
+msgstr "Log ud"
+
+# @ Kallyas
+#: comments.php:135
+msgid "Mail (will not be published)"
+msgstr "Mail (vil ikke blive offentliggjort)"
+
+# @ Kallyas
+#: comments.php:141
+msgid "Website"
+msgstr "Webside"
+
+# @ Kallyas
+#: comments.php:155
+msgid "Comment"
+msgstr "Kommentar"
+
+# @ Kallyas
+#: comments.php:163
+msgid "Submit Comment"
+msgstr "Indsend kommentar"
+
+# @ Kallyas
+#: footer.php:71
+msgid "GET SOCIAL"
+msgstr "GET SOCIAL"
+
+# @ Kallyas
+#: footer.php:124
+msgid "TOP"
+msgstr "TOP"
+
+# @ Kallyas
+#: functions.php:240
+msgid "Page "
+msgstr "Side"
+
+# @ Kallyas
+#: functions.php:1510
+msgid "Message successfully sent!"
+msgstr "Besked sendt!"
+
+# @ Kallyas
+#: functions.php:1514
+msgid "Message not sent! Please Try Again!"
+msgstr "Besked ikke sendt! Prøv venligst igen!"
+
+# @ Kallyas
+#: functions.php:1752 functions.php:2439
+msgid "years"
+msgstr "år"
+
+# @ Kallyas
+#: functions.php:1752 functions.php:2439
+msgid "months"
+msgstr "måneder"
+
+# @ Kallyas
+#: functions.php:1752 functions.php:2439
+msgid "weeks"
+msgstr "uger"
+
+# @ Kallyas
+#: functions.php:1752 functions.php:2439
+msgid "days"
+msgstr "dage"
+
+# @ Kallyas
+#: functions.php:1752 functions.php:2439
+msgid "hours"
+msgstr "timer"
+
+# @ Kallyas
+#: functions.php:1752 functions.php:1753 functions.php:2439 functions.php:2440
+msgid "min"
+msgstr "min"
+
+# @ Kallyas
+#: functions.php:1752 functions.php:1753 functions.php:2439 functions.php:2440
+msgid "sec"
+msgstr "sec"
+
+# @ Kallyas
+#: functions.php:1753 functions.php:2440
+msgid "year"
+msgstr "år"
+
+# @ Kallyas
+#: functions.php:1753 functions.php:2440
+msgid "month"
+msgstr "måned"
+
+# @ Kallyas
+#: functions.php:1753 functions.php:2440
+msgid "week"
+msgstr "uge"
+
+# @ Kallyas
+#: functions.php:1753 functions.php:2440
+msgid "day"
+msgstr "dag"
+
+# @ Kallyas
+#: functions.php:1753 functions.php:2440
+msgid "hour"
+msgstr "time"
+
+# @ Kallyas
+#: functions.php:2229
+msgid "SELECT A PAGE"
+msgstr "Vælg en side"
+
+# @ Kallyas
+#: functions.php:2402
+msgid "Item Added to cart!"
+msgstr "Tilføjet indkøbskurv!"
+
+# @ Kallyas
+#: functions.php:2697 woocommerce/single-product/review.php:18
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+# @ Kallyas
+#: functions.php:2697 woocommerce/single-product/review.php:18
+msgid "says :"
+msgstr "siger:"
+
+# @ Kallyas
+#: functions.php:2701
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer moderation."
+
+# @ Kallyas
+#: functions.php:2706
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+# @ Kallyas
+#: functions.php:2706
+msgid "(Edit)"
+msgstr "(Edit)"
+
+# @ Kallyas
+#: functions.php:2869
+msgid "Search for..."
+msgstr "Søg efter ..."
+
+# @ Kallyas
+#: functions.php:2877 header.php:83
+msgid "SEARCH ..."
+msgstr "SØG ..."
+
+# @ Kallyas
+#: functions.php:2896 functions.php:4032
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d vare"
+msgstr[1] "%d varer"
+
+# @ Kallyas
+#: functions.php:2896 functions.php:4032
+msgid "Total of"
+msgstr "i alt"
+
+# @ Kallyas
+#: functions.php:2896 functions.php:4028 functions.php:4032
+msgid "View your shopping cart"
+msgstr "Se din indkøbskurv"
+
+# @ Kallyas
+#: functions.php:2896 functions.php:4032
+msgid "Checkout"
+msgstr "Kurv"
+
+# @ Kallyas
+#: functions.php:3005 functions.php:3009
+msgid "Start"
+msgstr "Start"
+
+# @ Kallyas
+#: functions.php:3006 functions.php:3010
+msgid "Prev"
+msgstr "Forrige"
+
+# @ Kallyas
+#: functions.php:3023 functions.php:3027
+msgid "Next"
+msgstr "Næste"
+
+# @ Kallyas
+#: functions.php:3024 functions.php:3028
+msgid "End"
+msgstr "End"
+
+# @ Kallyas
+#: functions.php:3033 functions.php:3457 woocommerce/shop/breadcrumb.php:204
+msgid "Page"
+msgstr "Side"
+
+# @ Kallyas
+#: functions.php:3033
+msgid "of"
+msgstr "af"
+
+# @ Kallyas
+#: functions.php:3126 functions.php:4221 widgets/widget-blog-categories.php:11
+#: widgets/widget-blog-categories.php:17
+msgid "Categories"
+msgstr "Kategorier"
+
+# @ Kallyas
+#: functions.php:3127 functions.php:4222
+msgid "Category"
+msgstr "Kategori"
+
+# @ Kallyas
+#: functions.php:3128 functions.php:4223
+msgid "Search Categories"
+msgstr "Søg Kategorier"
+
+# @ Kallyas
+#: functions.php:3129 functions.php:4224
+msgid "All Categories"
+msgstr "Alle kategorier"
+
+# @ Kallyas
+#: functions.php:3130 functions.php:4225
+msgid "Parent Category"
+msgstr "Parent Kategori"
+
+# @ Kallyas
+#: functions.php:3131 functions.php:4226
+msgid "Parent Category:"
+msgstr "Parent Kategori:"
+
+# @ Kallyas
+#: functions.php:3132 functions.php:4227
+msgid "Edit Category"
+msgstr "Rediger Kategori"
+
+# @ Kallyas
+#: functions.php:3133 functions.php:4228
+msgid "Update Category"
+msgstr "Opdater Kategori"
+
+# @ Kallyas
+#: functions.php:3134 functions.php:4229
+msgid "Add New Category"
+msgstr "Tilføj ny Kategori"
+
+# @ Kallyas
+#: functions.php:3135 functions.php:4230
+msgid "New Category Name"
+msgstr "Ny Kategori Navn"
+
+# @ Kallyas
+#: functions.php:3136
+msgid "Portfolio categories"
+msgstr "Portefolio Kategorier"
+
+# @ Kallyas
+#: functions.php:3155
+msgid "Home"
+msgstr "Forside"
+
+# @ Kallyas
+#: functions.php:3217
+msgid "Archive from category "
+msgstr "Arkiv fra kategori"
+
+# @ Kallyas
+#: functions.php:3300 header.php:264 single-documentation.php:62
+#: taxonomy-documentation_category.php:41
+msgid "Search results for "
+msgstr "Søgeresultater for"
+
+# @ Kallyas
+#: functions.php:3320 woocommerce/shop/breadcrumb.php:88
+#: woocommerce/shop/breadcrumb.php:190
+msgid "Search results for &ldquo;"
+msgstr "Søgeresultater for &ldquo;"
+
+# @ Kallyas
+#: functions.php:3443 header.php:274
+msgid "Posts tagged "
+msgstr "Indlæg tagged"
+
+# @ Kallyas
+#: functions.php:3449 header.php:279
+msgid "Articles posted by "
+msgstr "Artikler postet af"
+
+# @ Kallyas
+#: functions.php:3452
+msgid "Error 404 "
+msgstr "Fejl 404"
+
+# @ Kallyas
+#: functions.php:3503
+msgid "SIGN IN YOUR ACCOUNT TO HAVE ACCESS TO DIFFERENT FEATURES"
+msgstr "TILMELD din konto for at have adgang til forskellige funktioner"
+
+# @ Kallyas
+#: functions.php:3508 functions.php:3528
+msgid "CREATE ACCOUNT"
+msgstr "OPRET KONTO"
+
+# @ Kallyas
+#: functions.php:3511 functions.php:3531
+#: template-helpers/content-page.php:5280
+#: template-helpers/content-page.php:5281
+msgid "Username"
+msgstr "Brugernavn"
+
+# @ Kallyas
+#: functions.php:3512 woocommerce/shop/form-login.php:22
+msgid "Password"
+msgstr "Adgangskode"
+
+# @ Kallyas
+#: functions.php:3514
+msgid " Remember Me"
+msgstr "Husk mig"
+
+# @ Kallyas
+#: functions.php:3515
+msgid "LOG IN"
+msgstr "LOG IND"
+
+# @ Kallyas
+#: functions.php:3519
+msgid "FORGOT YOUR PASSWORD?"
+msgstr "Glemt dit kodeord?"
+
+# @ Kallyas
+#: functions.php:3534 template-helpers/content-page.php:5285
+msgid "Your email"
+msgstr "Din e-mail"
+
+# @ Kallyas
+#: functions.php:3537 template-helpers/content-page.php:5288
+#: template-helpers/content-page.php:5289
+msgid "Your password"
+msgstr "Din adgangskode"
+
+# @ Kallyas
+#: functions.php:3540 template-helpers/content-page.php:5292
+#: template-helpers/content-page.php:5293
+msgid "Verify password"
+msgstr "Bekræft adgangskode"
+
+# @ Kallyas
+#: functions.php:3543
+msgid "CREATE MY ACCOUNT"
+msgstr "Opret min konto"
+
+# @ Kallyas
+#: functions.php:3548
+msgid "ALREADY HAVE AN ACCOUNT?"
+msgstr "Har du allerede en konto?"
+
+# @ Kallyas
+#: functions.php:3557
+msgid "FORGOT YOUR DETAILS?"
+msgstr "Glemt detaljer?"
+
+# @ Kallyas
+#: functions.php:3560
+msgid "Username or E-mail"
+msgstr "Brugernavn eller e-mail"
+
+# @ Kallyas
+#: functions.php:3563
+msgid "SEND MY DETAILS!"
+msgstr "SEND mine detaljer!"
+
+# @ Kallyas
+#: functions.php:3565
+msgid "AAH, WAIT, I REMEMBER NOW!"
+msgstr "AAH, vent, nu husker jeg!"
+
+# @ Kallyas
+#: functions.php:3942
+msgid "SUPPORT"
+msgstr "SUPPORT"
+
+# @ Kallyas
+#: functions.php:3964
+msgid "LOGOUT"
+msgstr "Log ud"
+
+# @ Kallyas
+#: functions.php:3967
+msgid "LOGIN"
+msgstr "Log ind"
+
+# @ Kallyas
+#: functions.php:4029
+msgid "MY CART"
+msgstr "INDKØBSKURV"
+
+# @ Kallyas
+#: functions.php:4058
+msgid "LANGUAGES"
+msgstr "SPROG"
+
+# @ Kallyas
+#: functions.php:4231
+msgid "Documentation categories"
+msgstr "Dokumentation kategorier"
+
+# @ Kallyas
+#: functions.php:4270
+msgid "The username already exists"
+msgstr "Brugernavnet eksisterer allerede"
+
+# @ Kallyas
+#: functions.php:4279
+msgid "Please enter an username"
+msgstr "Indtast venligst et brugernavn"
+
+# @ Kallyas
+#: functions.php:4287
+msgid "Please enter a password"
+msgstr "Indtast en adgangskode"
+
+# @ Kallyas
+#: functions.php:4292
+msgid "Passwords do not match"
+msgstr "Adgangskoderne stemmer ikke overens"
+
+# @ Kallyas
+#: functions.php:4301
+msgid "Please enter a valid EMAIL address"
+msgstr "Indtast en gyldig email adresse"
+
+# @ Kallyas
+#: functions.php:4310
+msgid "This email address has already been used"
+msgstr "Denne e-mailadresse er allerede blevet anvendt"
+
+# @ Kallyas
+#: functions.php:4316
+msgid "Please enter an email address"
+msgstr "Indtast venligst en e-mail-adresse"
+
+# @ Kallyas
+#: functions.php:4343
+msgid "Your account has been created."
+msgstr "Din konto er blevet oprettet."
+
+# @ Kallyas
+#: header.php:93
+msgid "Menu"
+msgstr "Menu"
+
+# @ Kallyas
+#: header.php:157 template-helpers/content-page.php:4280
+msgid "Search for:"
+msgstr "Søg efter:"
+
+# @ Kallyas
+#: header.php:158 template-helpers/content-page.php:4281
+msgid "Search the Documentation"
+msgstr "Søg i Dokumentation"
+
+# @ Kallyas
+#: sidebar.php:10
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"For at redigere denne sidebar, gå til admin backend´s <strong><em><Udseende -"
+"> Widgets</em></strong> og placer widgets ind i <strong><em>Sider Sidebar</"
+"em></strong> Widget Area"
+
+# @ Kallyas
+#: single-portfolio.php:91 template-helpers/content-page.php:430
+msgid "Our collaborators: "
+msgstr "Vores Samarbejdspartnere:"
+
+# @ Kallyas
+#: single-portfolio.php:94 template-helpers/content-page.php:433
+msgid "Category: "
+msgstr "Kategori:"
+
+# @ Kallyas
+#: single.php:119 template-helpers/content-page.php:93
+msgid "by "
+msgstr "af"
+
+# @ Kallyas
+#: single.php:124 template-helpers/content-page.php:98
+msgid "Published in "
+msgstr "Udgivet i"
+
+# @ Kallyas
+#: single.php:140 template-helpers/content-page.php:114
+msgid "Pages:"
+msgstr "Sider:"
+
+# @ Kallyas
+#: admin/zn-init.php:79 admin/framework/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr "Installer påkrævede plugins"
+
+# @ Kallyas
+#: admin/zn-init.php:80 admin/framework/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr "Installer plugins"
+
+# @ Kallyas
+#: admin/zn-init.php:81 admin/framework/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation Plugin: %s"
+
+# @ Kallyas
+#: admin/zn-init.php:82
+msgid "Something went wrong with the plugin API."
+msgstr "Noget gik galt med plugin API."
+
+# @ Kallyas
+#: admin/zn-init.php:83 admin/framework/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dette tema kræver følgende plugin: %1$s."
+msgstr[1] "Dette tema kræver følgende plugins: %1$s."
+
+# @ Kallyas
+#: admin/zn-init.php:84 admin/framework/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dette tema anbefaler følgende plugin: %1$s."
+msgstr[1] "Dette tema anbefaler følgende plugins: %1$s."
+
+# @ Kallyas
+#: admin/zn-init.php:85 admin/framework/class-tgm-plugin-activation.php:171
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Beklager, men du ikke har de korrekte tilladelser til at installere %s "
+"plugin. Kontakt administratoren af ​​denne hjemmeside for at få hjælp på at få "
+"plugin installeret."
+msgstr[1] ""
+"Beklager, men du ikke har de korrekte tilladelser til at installere "
+"%splugins. Kontakt administratoren af ​​denne hjemmeside efter hjælp til at få "
+"de plugins installeret."
+
+# @ Kallyas
+#: admin/zn-init.php:86 admin/framework/class-tgm-plugin-activation.php:172
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Følgende påkrævede plugin er i øjeblikket inaktiv: %1$s."
+msgstr[1] "Følgende nødvendige plugins er i øjeblikket inaktive: %1$s."
+
+# @ Kallyas
+#: admin/zn-init.php:87 admin/framework/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Følgende anbefalede plugin er i øjeblikket inaktiv: %1$s."
+msgstr[1] "De følgende anbefalede plugins er i øjeblikket inaktive: %1$s."
+
+# @ Kallyas
+#: admin/zn-init.php:88 admin/framework/class-tgm-plugin-activation.php:174
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Beklager, men du ikke har de korrekte tilladelser til at aktivere %s plugin. "
+"Kontakt administratoren af ​​denne hjemmeside for at få hjælp på at få plugin "
+"aktiveret."
+msgstr[1] ""
+"Beklager, men du ikke har de korrekte tilladelser til at aktivere %s "
+"plugins. Kontakt administratoren af ​​denne hjemmeside efter hjælp til at få "
+"de plugins aktiveret."
+
+# @ Kallyas
+#: admin/zn-init.php:89 admin/framework/class-tgm-plugin-activation.php:175
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Følgende plugin skal opdateres til den seneste version for at sikre maksimal "
+"kompatibilitet med dette tema: %1$s."
+msgstr[1] ""
+"De følgende plugins skal opdateres til deres nyeste version for at sikre "
+"maksimal kompatibilitet med dette tema: %1$s."
+
+# @ Kallyas
+#: admin/zn-init.php:90 admin/framework/class-tgm-plugin-activation.php:176
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Beklager, men du ikke har de korrekte tilladelser til at opdatere %s plugin. "
+"Kontakt administratoren af ​​denne hjemmeside for at få hjælp på at få plugin "
+"opdateret."
+msgstr[1] ""
+"Beklager, men du ikke har de korrekte tilladelser til at opdatere %s "
+"plugins. Kontakt administratoren af ​​denne hjemmeside efter hjælp til at få "
+"de plugins opdateret."
+
+# @ Kallyas
+#: admin/zn-init.php:91 admin/framework/class-tgm-plugin-activation.php:177
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begynde at installere plugin"
+msgstr[1] "Begynde at installere plugins"
+
+# @ Kallyas
+#: admin/zn-init.php:92 admin/framework/class-tgm-plugin-activation.php:179
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Aktivér installerede plugin"
+msgstr[1] "Aktivér installerede plugins"
+
+# @ Kallyas
+#: admin/zn-init.php:93 admin/framework/class-tgm-plugin-activation.php:180
+#: admin/framework/class-tgm-plugin-activation.php:510
+msgid "Return to Required Plugins Installer"
+msgstr "Retur til Nødvendigt plugin Install"
+
+# @ Kallyas
+#: admin/zn-init.php:94 admin/framework/class-tgm-plugin-activation.php:181
+#: admin/framework/class-tgm-plugin-activation.php:1908
+msgid "Plugin activated successfully."
+msgstr "Plugin aktiveret med succes."
+
+# @ Kallyas
+#: admin/zn-init.php:95
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plugins installeret og aktiveret korrekt. %s"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/parsers.php:42
+#: admin/dummy_content/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr "Der opstod en fejl ved læsning af denne WXR fil"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Detaljer er vist ovenfor. Importøren vil nu forsøge igen med et andet "
+"parser ..."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/parsers.php:67
+#: admin/dummy_content/wordpress-importer/parsers.php:72
+#: admin/dummy_content/wordpress-importer/parsers.php:262
+#: admin/dummy_content/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Det ser ikke ud til at være en WXR fil, mangler/ugyldigt WXR versionsnummer"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:126
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:135
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:186
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:190
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:199
+msgid "Sorry, there has been an error."
+msgstr "Beklager, der er opstået en fejl."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:127
+msgid "The file does not exist, please try again."
+msgstr "Filen findes ikke, prøv igen."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:170
+msgid "All done."
+msgstr "Alle gjort."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:170
+msgid "Have fun!"
+msgstr "Have fun!"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:171
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Husk at opdatere passwords og roller af importerede brugere."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:191
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Eksport filen kunne ikke findes på <code>%s</code> . Det er måske forårsaget "
+"af et tilladelses problem."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:207
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Denne WXR fil (version%s) er muligvis ikke understøttet af denne version af "
+"importøren. Overvej opdatering."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:232
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Kunne ikke importere forfatter%s. Deres indlæg vil blive tilskrevet den "
+"aktuelle bruger."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:258
+msgid "Assign Authors"
+msgstr "Tildel Forfattere"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:259
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"For at gøre det lettere for dig at redigere og gemme importeret indhold, kan "
+"du overflytte forfatteren af ​​importeret element til en eksisterende bruger "
+"af dette websted. For eksempel kan du importere alle posterne som "
+"<code>admin</code>s poster."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:261
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Hvis en ny bruger er skabt af WordPress, vil et nyt kodeord blive tilfældigt "
+"genereret, og den nye bruger&#8217;s rolle vil blive fastsat som %s. Manuelt "
+"skift af brugerens detaljer vil være nødvendigt."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:271
+msgid "Import Attachments"
+msgstr "Import Vedhæftede"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:274
+msgid "Download and import file attachments"
+msgstr "Download og importer vedhæftede filer"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:291
+msgid "Import author:"
+msgstr "Import forfatter:"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:302
+msgid "or create new user with login name:"
+msgstr "eller opret ny bruger med login-navn:"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:305
+msgid "as a new user:"
+msgstr "som ny bruger:"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:313
+msgid "assign posts to an existing user:"
+msgstr "tildel indlæg til en eksisterende bruger:"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:315
+msgid "or assign posts to an existing user:"
+msgstr "eller tildel indlæg til en eksisterende bruger:"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:316
+msgid "- Select -"
+msgstr "- Vælg -"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:366
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Kunne ikke oprette ny bruger for %s. Deres indlæg vil blive tilskrevet den "
+"aktuelle bruger."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:415
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Kunne importere kategori %s"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:453
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Kunne ikke importere indlæg tag %s"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:497
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:623
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Kunne ikke importere %s %s"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:519
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Kunne ikke importere &#8220;%s&#8221;: Ugyldig post type %s"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:540
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; findes allerede."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:595
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Kunne ikke importere %s &#8220;%s&#8221;"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:759
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Menupunkt sprunget over, manglende menu slug"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:766
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Menupunkt sprunget over, ugyldig menu slug: %s"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:829
+msgid "Fetching attachments is not enabled"
+msgstr "Hent vedhæftede filer er ikke aktiveret"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:842
+msgid "Invalid file type"
+msgstr "Ugyldig filtype"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:886
+msgid "Remote server did not respond"
+msgstr "Serveren svarede ikke"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:892
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Serveren returnerede en fejlrespons %1$d %2$s"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:899
+msgid "Remote file is incorrect size"
+msgstr "Fjernfil er forkert størrelse"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:904
+msgid "Zero size file downloaded"
+msgstr "Zero size fil downloadet"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:910
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Fjern filen er for stor, grænsen er %s"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:1023
+msgid "Import WordPress"
+msgstr "Import WordPress"
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:1030
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"En ny version af denne importør er tilgængelig. Opdater til version% s for "
+"at sikre kompatibilitet med nyere eksportere filer."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:1045
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Hej! Upload din WordPress eXtended RSS (WXR) fil, og vi&#8217; vil importere "
+"de indlæg, sider, kommentarer, brugerdefinerede felter, kategorier og tags "
+"ind på denne hjemmeside."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:1046
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Vælg en WXR (.xml) fil at uploade, og klik derefter på Upload fil og import."
+
+# @ Kallyas
+#: admin/dummy_content/wordpress-importer/wordpress-importer.php:1121
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Importer <strong>indlæg, sider, kommentarer, brugerdefinerede felter, "
+"kategorier og tags</strong> fra en WordPress eksport-fil."
+
+# @ Kallyas
+#: admin/framework/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Indtast dit Envato Marketplace brugernavn."
+
+# @ Kallyas
+#: admin/framework/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Indtast din Envato Marketplace API Key."
+
+# @ Kallyas
+#: admin/framework/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr " API \"set\" er et påkrævet parameter"
+
+# @ Kallyas
+#: admin/framework/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Marketplace \"item ID\" er et påkrævet parameter"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Noget gik galt."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:170
+#, php-format
+msgid "There is a new update for %1$s."
+msgid_plural "There are several plugins updates available %1$s."
+msgstr[0] "Der er en ny opdatering til %1$s."
+msgstr[1] "Der er flere plugins opdateringer tilgængelige %1$s."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:178
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begynd at opdatere plugin"
+msgstr[1] "Begynd at opdatere plugins"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins installeret og aktiveret korrekt. %1$s"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:537
+#: admin/framework/class-tgm-plugin-activation.php:2120
+msgid "Return to the Dashboard"
+msgstr "Retur til kontrolpanel"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:565
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Følgende plugin blev aktiveret med succes: %s."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:738
+msgid "Dismiss this notice"
+msgstr "Afvis denne besked"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1125
+msgid "External Link"
+msgstr "Eksternt link"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1130
+msgid "Private Repository"
+msgstr "Private Repository"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1133
+msgid "Pre-Packaged"
+msgstr "Færdigpakkede"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1137
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1140
+msgid "Required"
+msgstr "Påkrævet"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1140
+msgid "Recommended"
+msgstr "Anbefalet"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1143
+msgid "Not Installed"
+msgstr "Ikke installeret"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1145
+msgid "Installed But Not Activated"
+msgstr "Installeret, men ikke aktiveret"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1147
+msgid "Not Updated"
+msgstr "Ikke opdateret"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1149
+msgid "Active"
+msgstr "Aktiv"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1343
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Ingen plugins at installere eller aktivere. <a href=\"%1$s\" title=\"Return "
+"til kontrolpanel\">Retur til kontrolpanelet</a>"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1359
+msgid "Plugin"
+msgstr "Plugin"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1360
+msgid "Source"
+msgstr "Source"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1361
+msgid "Type"
+msgstr "Type"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1362
+msgid "Status"
+msgstr "Status"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1380
+msgid "Install"
+msgstr "Installer"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1381
+msgid "Activate"
+msgstr "Aktiver"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1606
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Følgende plugin blev aktiveret med succes:"
+msgstr[1] "De følgende plugins blev aktiveret med succes:"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1891
+msgid "Install package not available."
+msgstr "Installer pakke er ikke tilgængelig."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1892
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install pakke fra<span class=\"code\">%s</span>&#8230;"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1893
+msgid "Unpacking the package&#8230;"
+msgstr "Udpakning pakken&#8230;"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1894
+msgid "Installing the plugin&#8230;"
+msgstr "Installation af plugin&#8230;"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1895
+msgid "Plugin install failed."
+msgstr "Plugin install mislykkedes."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1896
+msgid "Plugin installed successfully."
+msgstr "Plugin installeret."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:1907
+msgid "Plugin activation failed."
+msgstr "Plugin aktivering mislykkedes."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2017
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Installationen og aktivering proces er begyndt. Denne proces kan tage et "
+"stykke hos nogle hosts, så vær tålmodig."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2018
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installeret og aktiveret korrekt."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2018
+#: admin/framework/class-tgm-plugin-activation.php:2027
+msgid "Show Details"
+msgstr "Vis detaljer"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2018
+#: admin/framework/class-tgm-plugin-activation.php:2027
+msgid "Hide Details"
+msgstr "Skjul detaljer"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2019
+msgid "All installations and activations have been completed."
+msgstr "Alle installationer og aktiveringer er afsluttet."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2020
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation og aktivering Plugin %1$s (%2$d/%3$d)"
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2024
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Installationen er begyndt. Denne proces kan tage et stykke tid hos nogle "
+"hosts, så vær tålmodig."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "En fejl opstod under installationen %1$s: <strong>%2$s</strong>."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2026
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installationen af %1$s mislykkedes."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2027
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installeret."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2028
+msgid "All installations have been completed."
+msgstr "Alle installationer er afsluttet."
+
+# @ Kallyas
+#: admin/framework/class-tgm-plugin-activation.php:2029
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer plugin %1$s (%2$d/%3$d)"
+
+# @ Kallyas
+#: template-helpers/content-page.php:900
+msgid "LATEST PRODUCTS"
+msgstr "Nyeste produkter"
+
+# @ Kallyas
+#: template-helpers/content-page.php:906
+msgid "BEST SELLING PRODUCTS"
+msgstr "Bedst sælgende produkter"
+
+# @ Kallyas
+#: template-helpers/content-page.php:946 template-helpers/content-page.php:963
+#: template-helpers/content-page.php:1094
+#: template-helpers/content-page.php:1111 woocommerce/content-product.php:45
+#: woocommerce/content-product.php:63
+msgid "Read More"
+msgstr "Læs mere"
+
+# @ Kallyas
+#: template-helpers/content-page.php:955
+#: template-helpers/content-page.php:1103 woocommerce/content-product.php:55
+msgid "Select options"
+msgstr "Muligheder"
+
+# @ Kallyas
+#: template-helpers/content-page.php:959
+#: template-helpers/content-page.php:1107 woocommerce/content-product.php:59
+msgid "View options"
+msgstr "Se muligheder"
+
+# @ Kallyas
+#: template-helpers/content-page.php:967
+#: template-helpers/content-page.php:1115 woocommerce/content-product.php:67
+msgid "ADD TO CART"
+msgstr "Tilføj Kurv"
+
+# @ Kallyas
+#: template-helpers/content-page.php:984
+#: template-helpers/content-page.php:1131 woocommerce/content-product.php:93
+#: woocommerce/single-product/product-image.php:26
+msgid "NEW!"
+msgstr "NY!"
+
+# @ Kallyas
+#: template-helpers/content-page.php:992
+#: template-helpers/content-page.php:1139 woocommerce/content-product.php:104
+#: woocommerce/single-product/product-image.php:37
+msgid "SALE!"
+msgstr "TILBUD!"
+
+# @ Kallyas
+#: template-helpers/content-page.php:1022
+#: template-helpers/content-page.php:1163 woocommerce/content-product.php:142
+msgid "MORE INFO"
+msgstr "MERE INFO"
+
+# @ Kallyas
+#: template-helpers/content-page.php:1622
+msgid "PRESENT"
+msgstr "PRESENT"
+
+# @ Kallyas
+#: template-helpers/content-page.php:2046
+msgid "Read more"
+msgstr "Læs mere"
+
+# @ Kallyas
+#: template-helpers/content-page.php:2057
+msgid "By"
+msgstr "Af"
+
+# @ Kallyas
+#: template-helpers/content-page.php:2059
+#: template-helpers/content-page.php:2346
+msgid "in"
+msgstr "i"
+
+# @ Kallyas
+#: template-helpers/content-page.php:2096
+#: template-helpers/content-page.php:2186
+#: template-helpers/content-page.php:2281
+msgid "VIEW ALL"
+msgstr "SE ALLE"
+
+# @ Kallyas
+#: template-helpers/content-page.php:2137
+msgid "in "
+msgstr "i"
+
+# @ Kallyas
+#: template-helpers/content-page.php:2369
+msgid "READ MORE"
+msgstr "LÆS MERE"
+
+#: template-helpers/content-page.php:4584
+msgid "PREV"
+msgstr ""
+
+#: template-helpers/content-page.php:4585
+msgid "NEXT"
+msgstr ""
+
+# @ Kallyas
+#: template-helpers/content-page.php:5277
+msgid "Create <strong>your account</strong> now"
+msgstr "Opret <strong>din konto</strong> nu"
+
+# @ Kallyas
+#: template-helpers/content-page.php:5284
+#: woocommerce/single-product-reviews.php:94
+msgid "Email"
+msgstr "Email"
+
+# @ Kallyas
+#: template-helpers/content-page.php:5296
+msgid "REGISTER"
+msgstr "REGISTRER"
+
+# @ Kallyas
+#: template-helpers/content-page.php:5439 widgets/widget-mailchimp.php:75
+msgid "your.address@email.com"
+msgstr "din.email @ email.com"
+
+# @ Kallyas
+#: template-helpers/content-page.php:5441 widgets/widget-mailchimp.php:77
+msgid "JOIN US"
+msgstr "JOIN US"
+
+# @ Kallyas
+#: template-helpers/content-page.php:5449
+msgid "-or stay connected: "
+msgstr "-eller forblive tilsluttet:"
+
+# @ Kallyas
+#: template-helpers/shortcodes.php:49
+msgid "Legend:"
+msgstr "Legend:"
+
+# @ Kallyas
+#: template-helpers/shortcodes.php:194
+msgid "Scan me!"
+msgstr "Scan mig!"
+
+# @ Kallyas
+#: template-helpers/shortcodes.php:195
+msgid "Scan this QR Code!"
+msgstr "Skan denne QR-kode!"
+
+# @ Kallyas
+#: widgets/widget-archive.php:10
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr "Et månedligt arkiv af din webside&#8217;s indlæg"
+
+# @ Kallyas
+#: widgets/widget-archive.php:11 widgets/widget-archive.php:18
+msgid "Archives"
+msgstr "Arkiver"
+
+# @ Kallyas
+#: widgets/widget-archive.php:26
+msgid "Select Month"
+msgstr "Vælg måned"
+
+# @ Kallyas
+#: widgets/widget-archive.php:55 widgets/widget-blog-categories.php:81
+#: widgets/widget-contact-details.php:83 widgets/widget-flickr.php:82
+#: widgets/widget-latest_posts.php:110 widgets/widget-mailchimp.php:140
+#: widgets/widget-menu.php:65 widgets/widget-social_buttons.php:157
+#: widgets/widget-tag-cloud.php:47 widgets/widget-twitter.php:64
+msgid "Title:"
+msgstr "Titel:"
+
+# @ Kallyas
+#: widgets/widget-archive.php:57 widgets/widget-blog-categories.php:85
+msgid "Display as dropdown"
+msgstr "Vis som dropdown"
+
+# @ Kallyas
+#: widgets/widget-archive.php:60 widgets/widget-blog-categories.php:89
+msgid "Show post counts"
+msgstr "Vis indlægs tæller"
+
+# @ Kallyas
+#: widgets/widget-blog-categories.php:10
+msgid "A list or dropdown of categories"
+msgstr "En liste eller dropdown over kategorier"
+
+# @ Kallyas
+#: widgets/widget-blog-categories.php:29
+msgid "Select Category"
+msgstr "Vælg Kategori"
+
+# @ Kallyas
+#: widgets/widget-blog-categories.php:94
+msgid "Show hierarchy"
+msgstr "Vis hierarki"
+
+# @ Kallyas
+#: widgets/widget-contact-details.php:19
+msgid ""
+"This widget will display your content with a \"Say Hello\" image on the top "
+"right."
+msgstr ""
+"Denne widget vil vise dit indhold med et \"Say Hello\" foto i højre top."
+
+#: widgets/widget-contact-details.php:23 widgets/widget-flickr.php:11
+#: widgets/widget-mailchimp.php:12 widgets/widget-menu.php:11
+#: widgets/widget-social_buttons.php:19 widgets/widget-twitter.php:11
+msgid "["
+msgstr ""
+
+# @ Kallyas
+#: widgets/widget-contact-details.php:93
+msgid "Automatically add paragraphs"
+msgstr "Tilføj automatisk afsnit"
+
+# @ Kallyas
+#: widgets/widget-flickr.php:10 widgets/widget-menu.php:10
+msgid ""
+"Use this widget to add one of your custom menus as a widget.This widget will "
+"dysplay two menu items on a row."
+msgstr ""
+"Brug denne widget til at tilføje en af ​​dine brugerdefinerede menuer som "
+"widget.Denne widget vil vise 2 menu emmer på en række."
+
+# @ Kallyas
+#: widgets/widget-flickr.php:86
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+# @ Kallyas
+#: widgets/widget-flickr.php:90
+msgid "Number of images:"
+msgstr "Antal billeder:"
+
+# @ Kallyas
+#: widgets/widget-flickr.php:94
+msgid "Image Size:"
+msgstr "Billede Størrelse:"
+
+# @ Kallyas
+#: widgets/widget-latest_posts.php:14
+msgid "The most recent posts on your site"
+msgstr "De seneste indlæg på dit site"
+
+# @ Kallyas
+#: widgets/widget-latest_posts.php:15 widgets/widget-latest_posts.php:40
+msgid "Recent Posts"
+msgstr "Seneste indlæg"
+
+# @ Kallyas
+#: widgets/widget-latest_posts.php:113
+msgid "Number of posts to show:"
+msgstr "Antal indlæg at vise:"
+
+# @ Kallyas
+#: widgets/widget-mailchimp.php:11
+msgid "Use this widget to add a mailchimp newsletter to your site."
+msgstr "Brug denne widget til at tilføje MailChimp nyhedsbrev til dit websted."
+
+# @ Kallyas
+#: widgets/widget-mailchimp.php:43 widgets/widget-mailchimp.php:206
+msgid ""
+"Success!&nbsp; Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+"Succes!&nbsp; Tjek din indbakke eller spam mappe for en besked med et link "
+"til bekræftelse."
+
+# @ Kallyas
+#: widgets/widget-mailchimp.php:46 widgets/widget-mailchimp.php:209
+msgid "Error:"
+msgstr "Fejl:"
+
+# @ Kallyas
+#: widgets/widget-mailchimp.php:115
+msgid ""
+"Curl is not enabled on your hosting environment. Please contact your hosting "
+"company and ask them to enable CURL for your account."
+msgstr ""
+"Curl er ikke aktiveret på din hosting miljø. Kontakt din hosting selskab og "
+"bede dem om at aktivere CURL til din konto."
+
+# @ Kallyas
+#: widgets/widget-mailchimp.php:120
+msgid ""
+"Please enter your MailChimp API KEY in the theme options pannel prior of "
+"using this widget."
+msgstr ""
+"Indtast din MailChimp API KEY i temaet optioner pannel, forud for at bruge "
+"denne widget."
+
+# @ Kallyas
+#: widgets/widget-mailchimp.php:145
+msgid "Select List:"
+msgstr "Vælg Liste:"
+
+# @ Kallyas
+#: widgets/widget-mailchimp.php:161
+msgid "Intro Text :"
+msgstr "Intro Text:"
+
+# @ Kallyas
+#: widgets/widget-mailchimp.php:165
+msgid "After Form Text :"
+msgstr "Efter Form Text:"
+
+# @ Kallyas
+#: widgets/widget-menu.php:60
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Ingen menuer er blevet skabt endnu. <a href=\"%s\">Opret nogle</a>."
+
+# @ Kallyas
+#: widgets/widget-menu.php:69
+msgid "Select Menu:"
+msgstr "Vælg Menu:"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:15
+msgid "This widget will display your desired social buttons."
+msgstr "Denne widget vil vise dine ønskede sociale knapper."
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:161
+msgid "Show Facebook Button ?"
+msgstr "Vis Facebook Button ?"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:163
+msgid "Show twitter Button ?"
+msgstr "Vis twitter Button ?"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:164
+msgid "Show Google Plus Button ?"
+msgstr "Vis Google Plus Button ?"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:165
+msgid "Show pinterest Button ?"
+msgstr "Vis pinterest Button ?"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:167
+msgid "Facebook Username:"
+msgstr "Facebook Brugernavn:"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:172
+msgid "Twitter Text:"
+msgstr "Twitter Text:"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:176 widgets/widget-twitter.php:68
+msgid "Twitter Username:"
+msgstr "Twitter Brugernavn:"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:180
+msgid "Twitter HashTag:"
+msgstr "Twitter hashtag:"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:184
+msgid "Pinterest Image:"
+msgstr "Pinterest Billede:"
+
+# @ Kallyas
+#: widgets/widget-social_buttons.php:188
+msgid "Pinterest Description:"
+msgstr "Pinterest Beskrivelse:"
+
+# @ Kallyas
+#: widgets/widget-tag-cloud.php:10
+msgid "Your most used tags in cloud format"
+msgstr "Dine mest anvendte tags i cloud-format"
+
+# @ Kallyas
+#: widgets/widget-tag-cloud.php:11
+msgid "Tag Cloud"
+msgstr "Tag Cloud"
+
+# @ Kallyas
+#: widgets/widget-tag-cloud.php:21
+msgid "Tags"
+msgstr "Tags"
+
+# @ Kallyas
+#: widgets/widget-tag-cloud.php:49
+msgid "Taxonomy:"
+msgstr "Taxonomy:"
+
+# @ Kallyas
+#: widgets/widget-twitter.php:10
+msgid "Use this widget to add a twitter widget to your site."
+msgstr "Brug denne widget til at tilføje en Twitter-widget til dit websted."
+
+# @ Kallyas
+#: widgets/widget-twitter.php:34
+msgid ""
+"There seems to be a problem with loading the tweets. Please refresh or try "
+"again later."
+msgstr ""
+"Der synes at være et problem med indlæsning af tweets. Venligst opdater "
+"eller prøv igen senere."
+
+# @ Kallyas
+#: woocommerce/archive-product.php:75
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "Søgeresultater: &ldquo;%s&rdquo;"
+
+# @ Kallyas
+#: woocommerce/archive-product.php:77
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; Side %s"
+
+# @ Kallyas
+#: woocommerce/archive-product.php:121 woocommerce/loop-shop.php:38
+msgid "No products found which match your selection."
+msgstr "Ingen produkter fundet, som svarer til dit valg."
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:42
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Bedømmelse %s ud af 5"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:42
+#: woocommerce/single-product/review.php:24
+msgid "out of 5"
+msgstr "ud af 5"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:44
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s bedømmelse for %s"
+msgstr[1] "%s bedømmelser for %s"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:50
+#: woocommerce/single-product/tabs/tab-reviews.php:11
+msgid "Reviews"
+msgstr "Bedømmelser"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:66
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Forrige"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:67
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Næste <span class=\"meta-nav\">&rarr;</span>"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:71
+msgid "Add Review"
+msgstr "Tilføj Bedømmelse"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:73
+msgid "Add a review"
+msgstr "Tilføj en bedømmelse"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:77
+msgid "Be the first to review"
+msgstr "Bliv den første til at bedømme"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:79
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+"Der er ingen bedømmelser endnu, vil du gerne <a href=\"#review_form\" class="
+"\"inline show_review_form\">sende din</a>?"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:97
+msgid "Submit Review"
+msgstr "Indsend bedømmelse"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:104
+msgid "Rating"
+msgstr "Rating"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:105
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:106
+msgid "Perfect"
+msgstr "Perfekt"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:107
+msgid "Good"
+msgstr "God"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:108
+msgid "Average"
+msgstr "Gennemsnitlig"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:109
+msgid "Not that bad"
+msgstr "Nogenlunde"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:110
+msgid "Very Poor"
+msgstr "Ikke godt"
+
+# @ Kallyas
+#: woocommerce/single-product-reviews.php:115
+msgid "Your Review"
+msgstr "Din Bedømmelse"
+
+# @ Kallyas
+#: woocommerce/loop/sorting.php:15
+msgid "Default sorting"
+msgstr "Standard sortering"
+
+# @ Kallyas
+#: woocommerce/loop/sorting.php:16
+msgid "Sort alphabetically"
+msgstr "Alfabetisk sortering"
+
+# @ Kallyas
+#: woocommerce/loop/sorting.php:17
+msgid "Sort by most recent"
+msgstr "Sorter efter Seneste"
+
+# @ Kallyas
+#: woocommerce/loop/sorting.php:18
+msgid "Sort by price"
+msgstr "Sorter efter pris"
+
+# @ Kallyas
+#: woocommerce/shop/breadcrumb.php:13
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Forside"
+
+# @ Kallyas
+#: woocommerce/shop/breadcrumb.php:65
+msgid "Products tagged &ldquo;"
+msgstr "Produkter tagged &ldquo;"
+
+# @ Kallyas
+#: woocommerce/shop/breadcrumb.php:148
+msgid "Error 404"
+msgstr "Fejl 404"
+
+# @ Kallyas
+#: woocommerce/shop/breadcrumb.php:194
+msgid "Posts tagged &ldquo;"
+msgstr "Indlæg tagged &ldquo;"
+
+# @ Kallyas
+#: woocommerce/shop/breadcrumb.php:199
+msgid "Author:"
+msgstr "Forfatter:"
+
+# @ Kallyas
+#: woocommerce/shop/form-login.php:18
+msgid "Username or email"
+msgstr "Brugernavn eller e-mail"
+
+# @ Kallyas
+#: woocommerce/shop/form-login.php:29
+msgid "Login"
+msgstr "Login"
+
+# @ Kallyas
+#: woocommerce/shop/form-login.php:31
+msgid "Lost Password?"
+msgstr "Glemt adgangskode?"
+
+# @ Kallyas
+#: woocommerce/single-product/meta.php:15
+msgid "SKU:"
+msgstr "SKU:"
+
+# @ Kallyas
+#: woocommerce/single-product/meta.php:18
+msgid "Category:"
+msgstr "Kategori:"
+
+# @ Kallyas
+#: woocommerce/single-product/meta.php:20
+msgid "Tags:"
+msgstr "Tags:"
+
+# @ Kallyas
+#: woocommerce/single-product/product-attributes.php:26
+msgid "Weight"
+msgstr "Vægt"
+
+# @ Kallyas
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr "Dimensioner"
+
+# @ Kallyas
+#: woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr "Relaterede produkter"
+
+# @ Kallyas
+#: woocommerce/single-product/review.php:28
+msgid "Your comment is awaiting approval"
+msgstr "Din kommentar afventer godkendelse"
+
+# @ Kallyas
+#: woocommerce/single-product/review.php:35
+msgid "verified owner"
+msgstr "bekræftet ejer"
+
+# @ Kallyas
+#: woocommerce/single-product/review.php:37
+msgid "M jS Y"
+msgstr "M jS Y"
+
+# @ Kallyas
+#: woocommerce/single-product/up-sells.php:31
+msgid "You may also like&hellip;"
+msgstr "Måske kan du også lide&hellip;"
+
+# @ Kallyas
+#: woocommerce/single-product/tabs/attributes.php:18
+#: woocommerce/single-product/tabs/tab-attributes.php:16
+msgid "Additional Information"
+msgstr "Yderligere information"
+
+# @ Kallyas
+#: woocommerce/single-product/tabs/tab-description.php:13
+msgid "Description"
+msgstr "Beskrivelse"

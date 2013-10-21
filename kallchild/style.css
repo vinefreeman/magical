@@ -1,0 +1,47 @@
+/*
+Theme Name:     Kallyas Child Theme
+Theme URI:      http://hogash-demo.com/kallyas_wp/
+Description:    Child theme for the Kallyas theme 
+Author:         Your name here
+Author URI:     http://themeforest.net/user/hogash
+Template:       kallyas
+Version:        3.4
+*/
+
+header#header.style4 .topnav.navLeft {
+    padding-right: 10px !important; }
+
+#action_box {
+    border-top: none;
+}
+
+#page_header.uh_about_us, #slideshow.uh_about_us {
+    border-bottom: none !important;
+}
+
+
+@media(max-width: 767px) {
+
+		header#header.style4 .topnav.navLeft, header#header.style4 .topnav.navRight {
+    padding-top: 10px !important;
+}
+	}
+
+@media(max-width: 480px) {
+
+	header#header.style4 .topnav.navLeft, header#header.style4 .topnav.navRight {
+    padding-top: 0px !important;
+    margin-top: -10px;
+    	}
+
+   	header#header.style4 .topnav.navLeft {
+    margin-right: 90px !important;
+}
+
+	#search {
+    float: right;
+    position: relative;
+    z-index: 100;
+    margin-top: -50px;
+}
+}

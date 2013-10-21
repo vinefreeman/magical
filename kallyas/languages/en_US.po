@@ -1,0 +1,2079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kallyas v1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 15:33+0200\n"
+"PO-Revision-Date: 2013-06-12 15:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: Hogash\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas\n"
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/404.php:22
+msgid "The page cannot be found."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-documentation.php:13
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single-documentation.php:33
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-documentation_category.php:13
+msgid "YOU ARE HERE:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-documentation.php:14
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single-documentation.php:36
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-documentation_category.php:14
+msgid "HOME"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-documentation.php:73
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-columns.php:80
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-default.php:102
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-documentation_category.php:91
+msgid "Read more..."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-documentation.php:87
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-columns.php:119
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-default.php:133
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-documentation_category.php:105
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:40
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-project_category.php:32
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3084
+msgid "Sort By:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:42
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:127
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-project_category.php:34
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3086
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:92
+msgid "Name"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:43
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-project_category.php:35
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3087
+msgid "Date"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:46
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-project_category.php:38
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3090
+msgid "Direction:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:48
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-project_category.php:40
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3092
+msgid "ASC"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:49
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-project_category.php:41
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3093
+msgid "DESC"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:55
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3099
+msgid "All"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:194
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single-portfolio.php:87
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-project_category.php:158
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:426
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3273
+msgid "Live Preview: "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/archive-portfolio.php:198
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-project_category.php:162
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:3277
+msgid "See more &rarr;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-columns.php:69
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-default.php:82
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2346
+msgid "by"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-columns.php:88
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-default.php:110
+msgid "Published in"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-columns.php:96
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/blog-default.php:118
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single.php:187
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:161
+msgid "Tagged under:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:105
+msgid "You must be "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:105
+msgid "logged in"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:105
+msgid "to post a comment."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:119
+msgid "Logged in as"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:119
+msgid "Log out"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:135
+msgid "Mail (will not be published)"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:141
+msgid "Website"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:155
+msgid "Comment"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/comments.php:163
+msgid "Submit Comment"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/footer.php:71
+msgid "GET SOCIAL"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/footer.php:124
+msgid "TOP"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:240
+msgid "Page "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1510
+msgid "Message successfully sent!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1514
+msgid "Message not sent! Please Try Again!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1752
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2439
+msgid "years"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1752
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2439
+msgid "months"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1752
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2439
+msgid "weeks"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1752
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2439
+msgid "days"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1752
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2439
+msgid "hours"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1752
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1753
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2439
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2440
+msgid "min"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1752
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1753
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2439
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2440
+msgid "sec"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1753
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2440
+msgid "year"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1753
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2440
+msgid "month"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1753
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2440
+msgid "week"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1753
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2440
+msgid "day"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:1753
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2440
+msgid "hour"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2229
+msgid "SELECT A PAGE"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2402
+msgid "Item Added to cart!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2697
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/review.php:18
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2697
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/review.php:18
+msgid "says :"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2701
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2706
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2706
+msgid "(Edit)"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2869
+msgid "Search for..."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2877
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/header.php:83
+msgid "SEARCH ..."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2896
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4032
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2896
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4032
+msgid "Total of"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2896
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4028
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4032
+msgid "View your shopping cart"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:2896
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4032
+msgid "Checkout"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3005
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3009
+msgid "Start"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3006
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3010
+msgid "Prev"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3023
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3027
+msgid "Next"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3024
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3028
+msgid "End"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3033
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3457
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/breadcrumb.php:204
+msgid "Page"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3033
+msgid "of"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3126
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4221
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-blog-categories.php:11
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-blog-categories.php:17
+msgid "Categories"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3127
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4222
+msgid "Category"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3128
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4223
+msgid "Search Categories"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3129
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4224
+msgid "All Categories"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3130
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4225
+msgid "Parent Category"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3131
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4226
+msgid "Parent Category:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3132
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4227
+msgid "Edit Category"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3133
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4228
+msgid "Update Category"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3134
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4229
+msgid "Add New Category"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3135
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4230
+msgid "New Category Name"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3136
+msgid "Portfolio categories"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3155
+msgid "Home"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3217
+msgid "Archive from category "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3300
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/header.php:264
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single-documentation.php:62
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/taxonomy-documentation_category.php:41
+msgid "Search results for "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3320
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/breadcrumb.php:88
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/breadcrumb.php:190
+msgid "Search results for &ldquo;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3443
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/header.php:274
+msgid "Posts tagged "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3449
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/header.php:279
+msgid "Articles posted by "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3452
+msgid "Error 404 "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3503
+msgid "SIGN IN YOUR ACCOUNT TO HAVE ACCESS TO DIFFERENT FEATURES"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3508
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3528
+msgid "CREATE ACCOUNT"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3511
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3531
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5280
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5281
+msgid "Username"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3512
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/form-login.php:22
+msgid "Password"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3514
+msgid " Remember Me"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3515
+msgid "LOG IN"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3519
+msgid "FORGOT YOUR PASSWORD?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3534
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5285
+msgid "Your email"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3537
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5288
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5289
+msgid "Your password"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3540
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5292
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5293
+msgid "Verify password"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3543
+msgid "CREATE MY ACCOUNT"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3548
+msgid "ALREADY HAVE AN ACCOUNT?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3557
+msgid "FORGOT YOUR DETAILS?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3560
+msgid "Username or E-mail"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3563
+msgid "SEND MY DETAILS!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3565
+msgid "AAH, WAIT, I REMEMBER NOW!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3942
+msgid "SUPPORT"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3964
+msgid "LOGOUT"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:3967
+msgid "LOGIN"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4029
+msgid "MY CART"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4058
+msgid "LANGUAGES"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4231
+msgid "Documentation categories"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4270
+msgid "The username already exists"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4279
+msgid "Please enter an username"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4287
+msgid "Please enter a password"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4292
+msgid "Passwords do not match"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4301
+msgid "Please enter a valid EMAIL address"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4310
+msgid "This email address has already been used"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4316
+msgid "Please enter an email address"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/functions.php:4343
+msgid "Your account has been created."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/header.php:93
+msgid "Menu"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/header.php:157
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:4280
+msgid "Search for:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/header.php:158
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:4281
+msgid "Search the Documentation"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/sidebar.php:10
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar</"
+"em></strong> Widget Area"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single-portfolio.php:91
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:430
+msgid "Our collaborators: "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single-portfolio.php:94
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:433
+msgid "Category: "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single.php:119
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:93
+msgid "by "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single.php:124
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:98
+msgid "Published in "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/single.php:140
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:114
+msgid "Pages:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:79
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:80
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:81
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:82
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:83
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:84
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:85
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:171
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:86
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:172
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:87
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:88
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:174
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:89
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:175
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:90
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:176
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:91
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:177
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:92
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:179
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:93
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:180
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:510
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:94
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:181
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1908
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/zn-init.php:95
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/parsers.php:42
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/parsers.php:67
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/parsers.php:72
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/parsers.php:262
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:126
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:135
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:186
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:190
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:199
+msgid "Sorry, there has been an error."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:127
+msgid "The file does not exist, please try again."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:170
+msgid "All done."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:170
+msgid "Have fun!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:171
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:191
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:207
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:232
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:258
+msgid "Assign Authors"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:259
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:261
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:271
+msgid "Import Attachments"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:274
+msgid "Download and import file attachments"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:291
+msgid "Import author:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:302
+msgid "or create new user with login name:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:305
+msgid "as a new user:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:313
+msgid "assign posts to an existing user:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:315
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:316
+msgid "- Select -"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:366
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:415
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:453
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:497
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:623
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:519
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:540
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:595
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:759
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:766
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:829
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:842
+msgid "Invalid file type"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:886
+msgid "Remote server did not respond"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:892
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:899
+msgid "Remote file is incorrect size"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:904
+msgid "Zero size file downloaded"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:910
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:1023
+msgid "Import WordPress"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:1030
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:1045
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:1046
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/dummy_content/wordpress-importer/wordpress-importer.php:1121
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:170
+#, php-format
+msgid "There is a new update for %1$s."
+msgid_plural "There are several plugins updates available %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:178
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:537
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2120
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:565
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:738
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1125
+msgid "External Link"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1130
+msgid "Private Repository"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1133
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1137
+msgid "WordPress Repository"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1140
+msgid "Required"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1140
+msgid "Recommended"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1143
+msgid "Not Installed"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1145
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1147
+msgid "Not Updated"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1149
+msgid "Active"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1343
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1359
+msgid "Plugin"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1360
+msgid "Source"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1361
+msgid "Type"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1362
+msgid "Status"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1380
+msgid "Install"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1381
+msgid "Activate"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1606
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1891
+msgid "Install package not available."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1892
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1893
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1894
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1895
+msgid "Plugin install failed."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1896
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:1907
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2017
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2018
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2018
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2027
+msgid "Show Details"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2018
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2027
+msgid "Hide Details"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2019
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2020
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2024
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2026
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2027
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2028
+msgid "All installations have been completed."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/admin/framework/class-tgm-plugin-activation.php:2029
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:900
+msgid "LATEST PRODUCTS"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:906
+msgid "BEST SELLING PRODUCTS"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:946
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:963
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1094
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1111
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/content-product.php:45
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/content-product.php:63
+msgid "Read More"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:955
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1103
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/content-product.php:55
+msgid "Select options"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:959
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1107
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/content-product.php:59
+msgid "View options"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:967
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1115
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/content-product.php:67
+msgid "ADD TO CART"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:984
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1131
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/content-product.php:93
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/product-image.php:26
+msgid "NEW!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:992
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1139
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/content-product.php:104
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/product-image.php:37
+msgid "SALE!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1022
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1163
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/content-product.php:142
+msgid "MORE INFO"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:1622
+msgid "PRESENT"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2046
+msgid "Read more"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2057
+msgid "By"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2059
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2346
+msgid "in"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2096
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2186
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2281
+msgid "VIEW ALL"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2137
+msgid "in "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:2369
+msgid "READ MORE"
+msgstr ""
+
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:4584
+msgid "PREV"
+msgstr ""
+
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:4585
+msgid "NEXT"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5277
+msgid "Create <strong>your account</strong> now"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5284
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:94
+msgid "Email"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5296
+msgid "REGISTER"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5439
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:75
+msgid "your.address@email.com"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5441
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:77
+msgid "JOIN US"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/content-page.php:5449
+msgid "-or stay connected: "
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/shortcodes.php:49
+msgid "Legend:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/shortcodes.php:194
+msgid "Scan me!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/template-helpers/shortcodes.php:195
+msgid "Scan this QR Code!"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-archive.php:10
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-archive.php:11
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-archive.php:18
+msgid "Archives"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-archive.php:26
+msgid "Select Month"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-archive.php:55
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-blog-categories.php:81
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-contact-details.php:83
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-flickr.php:82
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-latest_posts.php:110
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:140
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-menu.php:65
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:157
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-tag-cloud.php:47
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-twitter.php:64
+msgid "Title:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-archive.php:57
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-blog-categories.php:85
+msgid "Display as dropdown"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-archive.php:60
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-blog-categories.php:89
+msgid "Show post counts"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-blog-categories.php:10
+msgid "A list or dropdown of categories"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-blog-categories.php:29
+msgid "Select Category"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-blog-categories.php:94
+msgid "Show hierarchy"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-contact-details.php:19
+msgid ""
+"This widget will display your content with a \"Say Hello\" image on the top "
+"right."
+msgstr ""
+
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-contact-details.php:23
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-flickr.php:11
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:12
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-menu.php:11
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:19
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-twitter.php:11
+msgid "["
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-contact-details.php:93
+msgid "Automatically add paragraphs"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-flickr.php:10
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-menu.php:10
+msgid ""
+"Use this widget to add one of your custom menus as a widget.This widget will "
+"dysplay two menu items on a row."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-flickr.php:86
+msgid "Flickr ID:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-flickr.php:90
+msgid "Number of images:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-flickr.php:94
+msgid "Image Size:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-latest_posts.php:14
+msgid "The most recent posts on your site"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-latest_posts.php:15
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-latest_posts.php:40
+msgid "Recent Posts"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-latest_posts.php:113
+msgid "Number of posts to show:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:11
+msgid "Use this widget to add a mailchimp newsletter to your site."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:43
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:206
+msgid ""
+"Success!&nbsp; Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:46
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:209
+msgid "Error:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:115
+msgid ""
+"Curl is not enabled on your hosting environment. Please contact your hosting "
+"company and ask them to enable CURL for your account."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:120
+msgid ""
+"Please enter your MailChimp API KEY in the theme options pannel prior of "
+"using this widget."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:145
+msgid "Select List:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:161
+msgid "Intro Text :"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-mailchimp.php:165
+msgid "After Form Text :"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-menu.php:60
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-menu.php:69
+msgid "Select Menu:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:15
+msgid "This widget will display your desired social buttons."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:161
+msgid "Show Facebook Button ?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:163
+msgid "Show twitter Button ?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:164
+msgid "Show Google Plus Button ?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:165
+msgid "Show pinterest Button ?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:167
+msgid "Facebook Username:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:172
+msgid "Twitter Text:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:176
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-twitter.php:68
+msgid "Twitter Username:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:180
+msgid "Twitter HashTag:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:184
+msgid "Pinterest Image:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-social_buttons.php:188
+msgid "Pinterest Description:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-tag-cloud.php:10
+msgid "Your most used tags in cloud format"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-tag-cloud.php:11
+msgid "Tag Cloud"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-tag-cloud.php:21
+msgid "Tags"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-tag-cloud.php:49
+msgid "Taxonomy:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-twitter.php:10
+msgid "Use this widget to add a twitter widget to your site."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/widgets/widget-twitter.php:34
+msgid ""
+"There seems to be a problem with loading the tweets. Please refresh or try "
+"again later."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/archive-product.php:75
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/archive-product.php:77
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/archive-product.php:121
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/loop-shop.php:38
+msgid "No products found which match your selection."
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:42
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:42
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/review.php:24
+msgid "out of 5"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:44
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:50
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/tabs/tab-reviews.php:11
+msgid "Reviews"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:66
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:67
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:71
+msgid "Add Review"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:73
+msgid "Add a review"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:77
+msgid "Be the first to review"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:79
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:97
+msgid "Submit Review"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:104
+msgid "Rating"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:105
+msgid "Rate&hellip;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:106
+msgid "Perfect"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:107
+msgid "Good"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:108
+msgid "Average"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:109
+msgid "Not that bad"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:110
+msgid "Very Poor"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product-reviews.php:115
+msgid "Your Review"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/loop/sorting.php:15
+msgid "Default sorting"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/loop/sorting.php:16
+msgid "Sort alphabetically"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/loop/sorting.php:17
+msgid "Sort by most recent"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/loop/sorting.php:18
+msgid "Sort by price"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/breadcrumb.php:13
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/breadcrumb.php:65
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/breadcrumb.php:148
+msgid "Error 404"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/breadcrumb.php:194
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/breadcrumb.php:199
+msgid "Author:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/form-login.php:18
+msgid "Username or email"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/form-login.php:29
+msgid "Login"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/shop/form-login.php:31
+msgid "Lost Password?"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/meta.php:15
+msgid "SKU:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/meta.php:18
+msgid "Category:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/meta.php:20
+msgid "Tags:"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/product-attributes.php:26
+msgid "Weight"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/review.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/review.php:35
+msgid "verified owner"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/review.php:37
+msgid "M jS Y"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/up-sells.php:31
+msgid "You may also like&hellip;"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/tabs/attributes.php:18
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/tabs/tab-attributes.php:16
+msgid "Additional Information"
+msgstr ""
+
+# @ Kallyas
+#: C:/wamp/www/kallyas_wp/wp-content/themes/kallyas/woocommerce/single-product/tabs/tab-description.php:13
+msgid "Description"
+msgstr ""
