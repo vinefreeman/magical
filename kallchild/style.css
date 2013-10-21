@@ -1,9 +1,9 @@
 /*
 Theme Name:     Kallyas Child Theme
-Theme URI:      http://hogash-demo.com/kallyas_wp/
+Theme URI:      http://www.redheadmedia.co.uk/
 Description:    Child theme for the Kallyas theme 
-Author:         Your name here
-Author URI:     http://themeforest.net/user/hogash
+Author:         VForeman
+Author URI:     http://www.redheadmedia.co.uk
 Template:       kallyas
 Version:        3.4
 */
@@ -24,9 +24,12 @@ nav#main_menu > ul > li > a {font-weight: normal};
 
 
 section#content {
-    margin-top: 26px;
+    margin-top: 0px; padding-top: 76px;
+    background: url('images/fireplace.jpg') repeat-x top left; ;
 }
-
+#page_header {
+    border-bottom: none!important;
+}
 .gray-area{background-color: #222 !important;}
 .subtitle{font-size: 28px; background: url('images/divider.png') repeat-x bottom left; border-bottom: none !important;}
 .page-title{border-bottom: none !important;}
@@ -44,7 +47,7 @@ section#content {
 
 /*Slider fonts...*/
 .tp-caption.large_text{font-family: Griffy, Georgia, serif;}
-
+.breadcrumbs{background: none;}
 @media(max-width: 767px) {
 
 		header#header.style4 .topnav.navLeft, header#header.style4 .topnav.navRight {
