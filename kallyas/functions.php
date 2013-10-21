@@ -569,10 +569,10 @@ if ( ! function_exists( 'zn_logo' ) ) {
 			}
 			else {
 				if ( isset ( $data['logo_upload'] ) && !empty ( $data['logo_upload'] ) ) {
-					$logo = '<h3 id="logo"><a href="'.HOME_URL.'"><img src="'.$data['logo_upload'].'" alt="'.get_bloginfo('name').'" title="'.get_bloginfo('description').'" /></a></h3>';
+					$logo = '<span id="logo"><a href="'.HOME_URL.'"><img src="'.$data['logo_upload'].'" alt="'.get_bloginfo('name').'" title="'.get_bloginfo('description').'" /></a></span>';
 				}
 				else {
-					$logo = '<h3 id="logo"><a href="'.HOME_URL.'">'.get_bloginfo('name').'</a></h3>';
+					$logo = '<span id="logo"><a href="'.HOME_URL.'">'.get_bloginfo('name').'</a></span>';
 				}
 			}
 		}

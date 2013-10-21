@@ -7,17 +7,41 @@ Author URI:     http://themeforest.net/user/hogash
 Template:       kallyas
 Version:        3.4
 */
-
+h1{font-weight: normal;}
 header#header.style4 .topnav.navLeft {
     padding-right: 10px !important; }
+
+nav#main_menu > ul > li > a {font-weight: normal};
 
 #action_box {
     border-top: none;
 }
-
+#content img:hover{opacity: 0.9;}
 #page_header.uh_about_us, #slideshow.uh_about_us {
     border-bottom: none !important;
 }
+#slideshow.uh_about_us .zn_header_bottom_style:after {content: none !important;  border-bottom: none !important;}
+
+
+section#content {
+    margin-top: 26px;
+}
+
+.gray-area{background-color: #222 !important;}
+.subtitle{font-size: 28px; background: url('images/divider.png') repeat-x bottom left; border-bottom: none !important;}
+.page-title{border-bottom: none !important;}
+#logo{margin-top: 10px; text-shadow: 3px 2px 1px #000;}
+
+.header-titles span.mainTitles {
+    color: #FFFFFF;
+    line-height: 1.3;
+    margin-top: 20px;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
+     font-family: Griffy;
+    font-size: 30px;
+    line-height: 40px;
+}
+
 
 
 @media(max-width: 767px) {
@@ -35,7 +59,7 @@ header#header.style4 .topnav.navLeft {
     	}
 
    	header#header.style4 .topnav.navLeft {
-    margin-right: 90px !important;
+    margin-right: 50px !important;
 }
 
 	#search {
