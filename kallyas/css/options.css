@@ -255,7 +255,7 @@ header#header , .oldie #page_wrapper header#header {
 }
 
 footer#footer {
-					}
+	background-color:#1a1a1a;	background-image:url("http://localhost/livetest/clients/magical/cms/wp-content/uploads/2013/10/back-11.gif");	background-repeat:repeat;	background-position:left top;	background-attachment:scroll;}
 
 footer#footer .bottom {	border-top:5px solid #484848; }
 

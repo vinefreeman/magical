@@ -38,6 +38,11 @@ section#content {
     color: #8B8C8D;
     padding-top: 50px;
 }
+#footer .m_title {
+    color: #BF3A3A;
+    font-size: 18px;
+font-weight: normal;}
+#footer .container{ background: url('images/divider.png') repeat-x top left; padding-top:40px;}
 .page-title{border-bottom: none !important;}
 #logo{margin-top: 10px; text-shadow: 3px 2px 1px #000;}
 
@@ -77,6 +82,20 @@ section#content {
     color: #333;
     font-size: 18px;
     line-height: 1.3;
+}
+.product-gallery {
+    background: none !important;
+    border: none!important;
+    padding-bottom: 10px;
+    
+}
+.product-gallery .big_image{ margin-bottom: 20px;
+}
+#content div.product .woocommerce-tabs{margin-bottom: 30px;}
+.testimonial_box blockquote{font-size: 14px;}
+.product-list-item .details {
+    background: none repeat scroll 0 0 #fff !important;
+    
 }
 @media(max-width: 767px) {
 
