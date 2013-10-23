@@ -7,6 +7,9 @@ Author URI:     http://www.redheadmedia.co.uk
 Template:       kallyas
 Version:        3.4
 */
+/*======================
+GENERAL
+========================*/
 h1{font-weight: normal;}
 header#header.style4 .topnav.navLeft {
     padding-right: 10px !important; }
@@ -24,14 +27,14 @@ nav#main_menu > ul > li > a {font-weight: normal};
 
 #footer{border-top: none!important;}
 section#content {
-    margin-top: 0px; padding-top: 76px;
+    margin-top: 0px; padding-top: 96px;
     background: url('images/fireplace.jpg') repeat-x top left; ;
 }
 #page_header {
     border-bottom: none!important;
 }
 .gray-area{background-color: #222 !important;}
-.subtitle{font-size: 28px; background: url('images/divider.png') repeat-x bottom left; border-bottom: none !important;}
+.subtitle{padding-bottom: 30px;font-size: 28px; background: url('images/divider.png') repeat-x bottom left; border-bottom: none !important;}
 #footer .bottom {
     border-top: none !important;
     background: url('images/divider.png') repeat-x top left;
@@ -43,7 +46,7 @@ section#content {
     font-size: 18px;
 font-weight: normal;}
 #footer .container{ background: url('images/divider.png') repeat-x top left; padding-top:40px;}
-.page-title{border-bottom: none !important;}
+.page-title{border-bottom: none !important; margin-bottom: 20px; padding-bottom: 0;}
 #logo{margin-top: 10px; text-shadow: 3px 2px 1px #000;}
 
 .header-titles span.mainTitles {
@@ -56,11 +59,13 @@ font-weight: normal;}
     line-height: 40px;
 }
 
-/*Slider fonts...*/
+/*SLIDER*/
 .tp-caption.large_text{font-family: Griffy, Georgia, serif;}
 .breadcrumbs{background: none;}
 
-/*shop bits*/
+/*==================
+SHOP
+====================*/
 .shop-latest-carousel > .caroufredsel_wrapper {height: 500px !important;}
 .shop-latest .tabbable .nav{padding-top: 60px; border: none !important; background: url('images/divider.png') repeat-x top left;}
 .product-list-item .image {
@@ -97,6 +102,40 @@ font-weight: normal;}
     background: none repeat scroll 0 0 #fff !important;
     
 }
+.product-list-item .details .actions, .product-list-item:hover .details .actions  {text-align:left; position:inherit; overflow:visible;line-height: 1; }
+ .product-list-item .price {
+    bottom: 20px;
+    color: #565656;
+    float: right;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1;
+    margin-top: -20px;
+    position: absolute;
+    right: 10px;
+}
+.product-list-item .details .actions a {
+    background: none repeat scroll 0 0 #CD2122;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 10px;
+    line-height: 1;
+    margin-bottom: 3px;
+    padding: 8px 12px;
+    white-space: nowrap;
+}
+.main-data [itemprop="description"] p{font-family: griffy, georgia, serif; font-size: 18px;}
+ol.commentlist li p{color: #333;}
+ol.commentlist .comment-author a{color: #333; text-decoration: underline;}
+.woocommerce_info, .woocommerce_error, .woocommerce_message  {
+    background: none; border: 1px dashed #6ac373; padding: 10px;
+}
+.woocommerce-info a{color: #6ac373;}
+ul.payment_methods li label{color: #333;}
+/*===================================
+MEDIA QUERIES
+=====================================*/
+
 @media(max-width: 767px) {
 
 		header#header.style4 .topnav.navLeft, header#header.style4 .topnav.navRight {
@@ -121,4 +160,16 @@ font-weight: normal;}
     z-index: 100;
     margin-top: -50px;
 }
+.product-list-item .price {
+    bottom: 20px;
+    color: #565656;
+    float: none;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1;
+    margin-top: 5px;
+    position: inherit;
+    right: 10px;
+}
+
 }
